@@ -1,7 +1,4 @@
 
-
-
-
 SELECT * 
 FROM PortfolioProject.dbo.CovidDeaths
 WHERE continent is not null 
